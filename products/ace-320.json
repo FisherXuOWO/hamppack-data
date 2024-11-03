@@ -1,0 +1,160 @@
+{
+  "id": "ace-320",
+  "name": "ACE-320",
+  "desc": "TODO",
+  "cover": "products/ace-320/horizontal.avif",
+  "image": "products/ace-320/image.avif",
+  "trailerId": "espJqUUf3WY",
+  "features": [
+    {
+      "name": "Powerful Sound System",
+      "desc": "",
+      "points": [
+        "ACE-5202 Module: Latest sound module with built-in Bluetooth for easy wireless connection.",
+        "918 Sounds, 52+20 Drum Kits: A variety of sounds for any style, perfect for recording and live shows.",
+        "Enhanced Sampling: Multi-layered sampling captures left and right hand dynamics, preserving snare resonance and simulating real drum acoustics for a lifelike feel.",
+        "Advanced sound engine for realistic dynamics",
+        "Built-in training and recording functions"
+      ],
+      "image": "products/ace-320/feature-sound-sys.avif"
+    },
+    {
+      "name": "Natural Feel with Dual-Layer Mesh and Multi-Zone Design",
+      "desc": "",
+      "points": [
+        "Three-Zone Snare: Detects Head, Rim, and Rimshot hits, adding depth and variety to your performance.",
+        "Dual-Zone Toms: Supports Head and Rim strikes for a more responsive, dynamic feel.",
+        "Adjustable Tension Mesh: Dual-layer mesh gives a realistic rebound and allows tension adjustments to suit your personal playing style."
+      ],
+      "image": "products/ace-320/feature-design.avif"
+    },
+    {
+      "name": "Upgraded 12\" Dual-Zone Semi-Enclosed Cymbal",
+      "desc": "",
+      "points": [
+        "Edge and Bow Sensing: Detects hits on both the edge and bow, giving you more expressive control.",
+        "Choke Feature: Allows manual muting for added expression.",
+        "Premium Silicone* Feels natural and responds accurately to dynamic changes for smooth, authentic play."
+      ],
+      "image": "products/ace-320/feature-cymbal.avif"
+    },
+    {
+      "name": "Accurate Multi-Sensor Technology",
+      "desc": "High-quality sensors capture each hit with precision, from gentle taps to hard strikes, giving you realistic dynamic feedback to elevate your performance.",
+      "points": [],
+      "image": "products/ace-320/feature-multi-sensor.avif"
+    },
+    {
+      "name": "Durable Kevlar Kick Drum",
+      "desc": "Made from tough Kevlar, the kick drum passed a 22,000,000-hit endurance test without damage, ensuring it stays reliable even under intense use. Enjoy solid feedback for a genuine, lasting playing experience.",
+      "points": [],
+      "image": "products/ace-320/feature-kick-drum.avif"
+    },
+    {
+      "name": "Easy MIDI and USB Connections",
+      "desc": "MIDI and USB support; just one USB cable sends audio and MIDI data straight to your music software, making ACE-320 a great choice for home studios and live performances.",
+      "points": [],
+      "image": "products/ace-320/feature-connect.avif"
+    },
+    {
+      "name": "Quick Setup with Stable Stand Design",
+      "desc": "Easy to set up with a stable, durable stand that’s ready for any performance, giving you a solid foundation to play on.",
+      "points": [],
+      "image": "products/ace-320/feature-setup.avif"
+    }
+  ],
+  "specs": [
+    {
+      "name": "Size & Weight",
+      "items": [
+        {
+          "name": "Dimension",
+          "value": "882 (W) x 682 (D) x 345 (H) mm"
+        },
+        {
+          "name": "Dimensions",
+          "value": "34-23/32 (W) x 26-7/8 (D) x 13-5/8 (H) inches"
+        },
+        {
+          "name": "Volume",
+          "value": "0.21 m³ / 7.42 cubic feet"
+        },
+        {
+          "name": "Weight",
+          "value": "25.85 kg / 57 lbs"
+        }
+      ]
+    },
+    {
+      "name": "Included Accessories",
+      "items": [
+        { "name": "Base Drum Pedal", "value": "x1" },
+        { "name": "AC Adapter", "value": "x1" },
+        { "name": "Setup Guide", "value": "x1" },
+        { "name": "Drum Key", "value": "x1" }
+      ]
+    },
+    {
+      "name": "ACE-5202 Modules",
+      "items": [
+        { "name": "Sounds", "value": "918" },
+        { "name": "Preset Drum Kits", "value": "52" },
+        { "name": "User-customizable drum kits", "value": "20" }
+      ]
+    },
+    {
+      "name": "ACE-5202 Module Connectors",
+      "items": [
+        { "name": "DC IN", "value": "Supported" },
+        { "name": "Phones", "value": "Supported" },
+        { "name": "AUX In", "value": "Supported" },
+        { "name": "Output", "value": "Supported" },
+        { "name": "USB MIDI", "value": "Supported" },
+        { "name": "MIDI Input/Output", "value": "Supported" },
+        { "name": "2 Trigger Input", "value": "Supported" }
+      ]
+    }
+  ],
+  "widgets": [
+    {
+      "name": "Snare",
+      "desc": "SNH-10-MS x1(10-inch) Mesh head, 3-zone pad"
+    },
+    {
+      "name": "Tom Pad",
+      "desc": "TMH-08-MS x2(8-inch) Mesh head, 2-zone pad"
+    },
+    {
+      "name": "Floor Tom pad",
+      "desc": "TMH-10-MS x1(10-inch) Mesh head, 2-zone pad"
+    },
+    {
+      "name": "Kick Pad",
+      "desc": "BD-05-KL x1 (5-inch) Kevlar Fiber with multi-layer cushion"
+    },
+    {
+      "name": "Hi-Hat pad",
+      "desc": "HH-12-SL x1 (12-inch) Silicone 2-zone pad"
+    },
+    {
+      "name": "Crash Cymbal 1",
+      "desc": "CSH-08-SL x1(12-inch) Silicone 2-zone pad with choke"
+    },
+    {
+      "name": "Crash Cymbal 2",
+      "desc": "CSH-08-SL x1(12-inch) Silicone 2-zone pad with choke"
+    },
+    {
+      "name": "Ride Cymbal",
+      "desc": "CSH-08-SL x1(12-inch) Silicone 2-zone pad with choke"
+    },
+    {
+      "name": "Hi-hat stand",
+      "desc": "HHS-01-IR"
+    },
+    {
+      "name": "Rack System",
+      "desc": "RK-03-IR"
+    }
+  ]
+}

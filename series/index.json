@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ace-300",
+    "name": "ACE-300 Series",
+    "desc": "Lorem ipsum odor amet, consectetuer adipiscing elit. Nunc ut curabitur habitant urna; donec bibendum. Nullam volutpat libero ligula maximus nascetur.",
+    "products": ["ace-320", "ace-360"],
+    "cover": "series/ace-300/cover.avif"
+  },
+  {
+    "id": "ace-500",
+    "name": "ACE-500 Series",
+    "desc": "Lorem ipsum odor amet, consectetuer adipiscing elit. Nunc ut curabitur habitant urna; donec bibendum. Nullam volutpat libero ligula maximus nascetur.",
+    "products": ["ace-510", "ace-530"],
+    "cover": "series/ace-500/cover.avif"
+  },
+  {
+    "id": "premium",
+    "name": "ACE970/1719",
+    "desc": "Lorem ipsum odor amet, consectetuer adipiscing elit. Nunc ut curabitur habitant urna; donec bibendum. Nullam volutpat libero ligula maximus nascetur.",
+    "products": ["ace-970", "ace-1719"],
+    "cover": "series/premium/cover.avif"
+  },
+  {
+    "id": "mk",
+    "name": "MK Series",
+    "desc": "Lorem ipsum odor amet, consectetuer adipiscing elit. Nunc ut curabitur habitant urna; donec bibendum. Nullam volutpat libero ligula maximus nascetur.",
+    "products": [],
+    "cover": "series/mk/cover.avif"
+  }
+]

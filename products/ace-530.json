@@ -1,0 +1,165 @@
+{
+  "id": "ace-530",
+  "name": "ACE-530",
+  "desc": "TODO",
+  "cover": "products/ace-530/horizontal.avif",
+  "display": "products/ace-530/vertical.avif",
+  "image": "products/ace-530/image.avif",
+  "trailerId": "espJqUUf3WY",
+  "features": [
+    {
+      "name": "Powerful Sound System",
+      "desc": "",
+      "points": [
+        "ACE-5202 Module: Latest sound module with built-in Bluetooth for easy wireless connection.",
+        "918 Sounds, 52+20 Drum Kits: A variety of sounds for any style, perfect for recording and live shows.",
+        "Enhanced Sampling: Multi-layered sampling captures left and right hand dynamics, preserving snare resonance and simulating real drum acoustics for a lifelike feel."
+      ],
+      "image": "products/ace-530/feature-sound-sys.avif"
+    },
+    {
+      "name": "12’’ 2 pieces independent Hihat",
+      "desc": "Dual-plate design for authentic playing. Offers natural rebound and realistic swing, mimicking acoustic hi-hats. Supports traditional techniques perfectly.",
+      "image": "products/ace-530/feature-hihat.avif"
+    },
+    {
+      "name": "Natural Feel with Upgraded Acoustic Pads",
+      "desc": "",
+      "points": [
+        "Upgraded Pads: More acoustically designed pads with a larger striking surface.",
+        "Three-Zone Snare: Detects Head, Rim, and Rimshot hits, adding depth and variety to your performance.",
+        "Dual-Zone Toms: Supports Head and Rim strikes for a more responsive, dynamic feel.",
+        "Adjustable Tension Mesh: Dual-layer mesh gives a realistic rebound and allows tension adjustments to suit your playing style."
+      ],
+      "image": "products/ace-530/feature-upgraded-pads.avif"
+    },
+    {
+      "name": "Upgraded 14’’ Three-Zone Silicone Ride Cymbal",
+      "desc": "The upgraded CSF-14-SL Ride Cymbal has a more extensive beating zone.",
+      "points": [
+        "Edge and Bow Bell Sensing: Detects hits on both the edge, bow, and bell, giving you more expressive control.",
+        "Choke Feature: Allows manual muting for added expression.",
+        "Premium Silicone: Feels natural and responds accurately to dynamic changes for smooth, authentic play."
+      ],
+      "image": "products/ace-530/feature-ride-cymbal.avif"
+    },
+    {
+      "name": "Accurate Multi-Sensor Technology",
+      "desc": "A multi-sensor technique precisely captures each hit, from gentle taps to hard strikes, giving you realistic dynamic feedback to elevate your performance.",
+      "image": "products/ace-530/feature-multi-sensor.avif"
+    },
+    {
+      "name": "Upgraded 8’’ Durable Kevlar Kick Drum",
+      "desc": "New BD-08-KL Kick Drum, more extensive beating zone",
+      "points": [
+        "Made from tough Kevlar, the kick drum passed a 22,000,000-hit endurance test without damage, ensuring it stays reliable even under intense use.",
+        "Enjoy solid feedback for a genuine, lasting playing experience."
+      ],
+      "image": "products/ace-530/feature-kick-drum.avif"
+    },
+    {
+      "name": "Easy MIDI and USB Connections",
+      "desc": "MIDI and USB support: A Simple USB cable sends audio and MIDI data straight to your music software, making ACE-320 an excellent choice for home studios and live performances.",
+      "image": "products/ace-530/feature-midi-usb.avif"
+    },
+    {
+      "name": "Quick Setup with Stable Stand Design",
+      "desc": "Easy to set up with a stable, durable stand that’s ready for any performance, giving you a solid foundation to play on.",
+      "image": "products/ace-530/feature-stand-design.avif"
+    }
+  ],
+  "specs": [
+    {
+      "name": "Size & Weight",
+      "items": [
+        {
+          "name": "Dimensions",
+          "value": "901 (W) x 701 (D) x 394 (H) mm"
+        },
+        {
+          "name": "Dimensions",
+          "value": "35-1/2 (W) x 27-5/8 (D) x 15-1/2 (H) inches"
+        },
+        {
+          "name": "Volume",
+          "value": "0.25 m³ / 8.83 cubic feet"
+        },
+        {
+          "name": "Weight",
+          "value": "39.92 kg / 88 lbs"
+        }
+      ]
+    },
+    {
+      "name": "Included Accessories",
+      "items": [
+        { "name": "Bass Drum Pedal", "value": "x1" },
+        { "name": "AC Adapter", "value": "x1" },
+        { "name": "Setup Guide", "value": "x1" },
+        { "name": "Drum Key", "value": "x1" }
+      ]
+    },
+    {
+      "name": "ACE-5202 Modules",
+      "items": [
+        { "name": "Sounds", "value": "918" },
+        { "name": "Preset Drum Kits", "value": "52" },
+        { "name": "User-customizable drum kits", "value": "20" }
+      ]
+    },
+    {
+      "name": "ACE-5202 Module Connectors",
+      "items": [
+        { "name": "DC IN", "value": "Supported" },
+        { "name": "Phones", "value": "Supported" },
+        { "name": "AUX In", "value": "Supported" },
+        { "name": "Output", "value": "Supported" },
+        { "name": "USB MIDI", "value": "Supported" },
+        { "name": "MIDI Input/Output", "value": "Supported" },
+        { "name": "2 Trigger Input", "value": "Supported" }
+      ]
+    }
+  ],
+  "widgets": [
+    {
+      "name": "Snare",
+      "desc": "SNF-12-MS x1(12-inch) Mesh head, 3-zone pad"
+    },
+    {
+      "name": "Tom Pad",
+      "desc": "TMF-10-MS x2(10-inch) Mesh head, 2-zone pad"
+    },
+    {
+      "name": "Floor Tom pad",
+      "desc": "TMF-10-MS x1(10-inch) Mesh head, 2-zone pad"
+    },
+    {
+      "name": "Kick Pad",
+      "desc": "BD-08-KL x1(5-inch) Kevlar Fiber with multi-layer cushion"
+    },
+    {
+      "name": "Hi-Hat pad",
+      "desc": "HH-12-SL x1(12-inch) Silicone 2-zone pad"
+    },
+    {
+      "name": "Crash Cymbal 1",
+      "desc": "CSF-12-SL x1(12-inch) Silicone 2-zone pad with choke"
+    },
+    {
+      "name": "Crash Cymbal 2",
+      "desc": "CSF-12-SL x1(12-inch) Silicone 2-zone pad with choke"
+    },
+    {
+      "name": "Ride Cymbal",
+      "desc": "CSF-14-SL x1(14-inch) Silicone 3-zone pad with choke"
+    },
+    {
+      "name": "Hi-hat stand",
+      "desc": "HHS-01-IR"
+    },
+    {
+      "name": "Rack System",
+      "desc": "RK-05-IR"
+    }
+  ]
+}

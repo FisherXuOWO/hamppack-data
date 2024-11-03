@@ -1,0 +1,180 @@
+{
+  "id": "ace-1719",
+  "name": "ACE-1719",
+  "desc": "TODO",
+  "cover": "products/ace-1719/horizontal.avif",
+  "display": "products/ace-1719/vertical.avif",
+  "image": "products/ace-1719/image.avif",
+  "trailerId": "espJqUUf3WY",
+  "features": [
+    {
+      "name": "Powerful Sound System",
+      "desc": "",
+      "points": [
+        "ACE-7102 Module: The latest sound module with built-in Bluetooth for easy wireless connection.",
+        "553 Sounds, 30+50 Drum Kits: A variety of sounds for any style, perfect for recording and live shows.",
+        "Enhanced Sampling: Multi-layered sampling captures left and right-hand dynamics, preserving snare resonance and simulating real drum acoustics for a lifelike feel."
+      ],
+      "image": "products/ace-1719/feature-sound-sys.avif"
+    },
+    {
+      "name": "Heavy-duty Rack System",
+      "desc": "Powerful heavy-duty Rack System, quick adjustment to any angle.",
+      "points": [],
+      "image": "products/ace-1719/feature-rack-system.avif"
+    },
+    {
+      "name": "8’’ Splash Cymbal",
+      "desc": "8\" Splash expands more performance possibilities",
+      "points": [],
+      "image": "products/ace-1719/feature-splash-cymbal.avif"
+    },
+    {
+      "name": "12’’ 2 pieces independent Hihat",
+      "desc": "Dual-plate design for authentic playing. Offers natural rebound and realistic swing, mimicking acoustic hi-hats. Supports traditional techniques perfectly.",
+      "points": [],
+      "image": "products/ace-1719/feature-hihat.avif"
+    },
+    {
+      "name": "Natural Feel with Upgraded Acoustic Pads",
+      "desc": "",
+      "points": [
+        "Upgraded Pads: More acoustically designed pads with a larger striking surface.",
+        "Three-Zone Snare: Detects Head, Rim, and Rimshot hits, adding depth and variety to your performance.",
+        "Dual-Zone Toms: Supports Head and Rim strikes for a more responsive, dynamic feel.",
+        "Adjustable Tension Mesh: Dual-layer mesh gives a realistic rebound and allows tension adjustments to suit your playing style."
+      ],
+      "image": "products/ace-1719/feature-upgraded-pads.avif"
+    },
+    {
+      "name": "Upgraded 16’’ Three-Zone Silicone Ride Cymbal",
+      "desc": "",
+      "points": [
+        "The upgraded CSF-16-SL Ride Cymbal has a more extensive beating zone.",
+        "Edge and Bow Bell Sensing: Detects hits on both the edge, bow, and bell, giving you more expressive control.",
+        "Choke Feature: Allows manual muting for added expression.",
+        "Premium Silicone: Feels natural and responds accurately to dynamic changes for smooth, authentic play."
+      ],
+      "image": "products/ace-1719/feature-ride-cymbal.avif"
+    },
+    {
+      "name": "Accurate Multi-Sensor Technology",
+      "desc": "A multi-sensor technique precisely captures each hit, from gentle taps to hard strikes, giving you realistic dynamic feedback to elevate your performance.",
+      "points": [],
+      "image": "products/ace-1719/feature-multi-sensor.avif"
+    },
+    {
+      "name": "Upgraded 12’’ Durable Kevlar Kick Drum",
+      "desc": "",
+      "points": [
+        "The new BD-12-KL kick drum has a more extensive beating zone and supports a double pedal.",
+        "Made from tough Kevlar, the kick drum passed a 22,000,000-hit endurance test without damage, ensuring it stays reliable even under intense use. Enjoy solid feedback for a genuine, lasting playing experience."
+      ],
+      "image": "products/ace-1719/feature-kick-drum.avif"
+    },
+    {
+      "name": "Easy MIDI and USB Connections",
+      "desc": "MIDI and USB support: A Simple USB cable sends audio and MIDI data straight to your music software, making ACE-320 an excellent choice for home studios and live performances.",
+      "points": [],
+      "image": "products/ace-1719/feature-midi-usb.avif"
+    }
+  ],
+  "specs": [
+    {
+      "name": "Size & Weight",
+      "items": [
+        {
+          "name": "Dimensions",
+          "value": "1060 (W) x 740 (D) x 331 (H) mm"
+        },
+        {
+          "name": "Dimensions",
+          "value": "41-3/4 (W) x 29-1/8 (D) x 13 (H) inches"
+        },
+        {
+          "name": "Volume",
+          "value": "0.26 m³ / 9.18 cubic feet"
+        },
+        {
+          "name": "Weight",
+          "value": "59.87 kg / 132 lbs"
+        }
+      ]
+    },
+    {
+      "name": "Included Accessories",
+      "items": [
+        { "name": "Bass Drum Pedal", "value": "x1" },
+        { "name": "AC Adapter", "value": "x1" },
+        { "name": "Setup Guide", "value": "x1" },
+        { "name": "Drum Key", "value": "x1" }
+      ]
+    },
+    {
+      "name": "ACE-7102 Modules",
+      "items": [
+        { "name": "Sounds", "value": "553" },
+        { "name": "Preset Drum Kits", "value": "30" },
+        { "name": "User-customizable drum kits", "value": "50" }
+      ]
+    },
+    {
+      "name": "ACE-7102 Module Connectors",
+      "items": [
+        { "name": "DC IN", "value": "Supported" },
+        { "name": "Phones", "value": "Supported" },
+        { "name": "AUX In", "value": "Supported" },
+        { "name": "Output", "value": "Supported" },
+        { "name": "USB MIDI", "value": "Supported" },
+        { "name": "MIDI Input/Output", "value": "Supported" },
+        { "name": "2 Trigger Input", "value": "Supported" }
+      ]
+    }
+  ],
+  "widgets": [
+    {
+      "name": "Snare",
+      "desc": "SNF-12-MS x1(12-inch) Mesh head, 3-zone pad"
+    },
+    {
+      "name": "Tom Pad",
+      "desc": "TMF-10-MS x2(10-inch) Mesh head, 2-zone pad"
+    },
+    {
+      "name": "Floor Tom pad",
+      "desc": "TMF-12-MS x1(12-inch) Mesh head, 2-zone pad"
+    },
+    {
+      "name": "Kick Pad",
+      "desc": "BD-12-KL x1 (12-inch) Kevlar Fiber with multi-layer cushion"
+    },
+    {
+      "name": "Hi-Hat pad",
+      "desc": "HH-12-SL x1 (12-inch) Silicone 2-zone pad"
+    },
+    {
+      "name": "Crash Cymbal 1",
+      "desc": "CSF-14-SL x1(14-inch) Silicone 2-zone pad with choke"
+    },
+    {
+      "name": "Crash Cymbal 2",
+      "desc": "CSF-14-SL x1(14-inch) Silicone 2-zone pad with choke"
+    },
+    {
+      "name": "Ride Cymbal",
+      "desc": "CSF-16-SL x1(16-inch) Silicone 3-zone pad with choke"
+    },
+    {
+      "name": "Splash Cymbal",
+      "desc": "PSF-08-SL x1(8-inch) Silicone 1-zone splash pad"
+    },
+    {
+      "name": "Hi-hat stand",
+      "desc": "HHS-01-IR"
+    },
+    {
+      "name": "Rack System",
+      "desc": "RK-10-IR"
+    }
+  ]
+}
