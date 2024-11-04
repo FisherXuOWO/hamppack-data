@@ -2,21 +2,21 @@
   {
     "id": "ace-300",
     "name": "ACE-300 Series",
-    "desc": "The Best-entry Level e-Drums, with powerful module, mesh heads, 3-zone snare, 2-zone toms, and 2-zone cymbals(choke).",
+    "desc": "Compact and affordable e-Drum sets series, with powerful modules.",
     "products": ["ace-320", "ace-360"],
     "cover": "series/ace-300/cover.avif"
   },
   {
     "id": "ace-500",
     "name": "ACE-500 Series",
-    "desc": "Lorem ipsum odor amet, consectetuer adipiscing elit. Nunc ut curabitur habitant urna; donec bibendum. Nullam volutpat libero ligula maximus nascetur.",
+    "desc": "Mid-range e-drum series, ideal for intermediate practice.",
     "products": ["ace-510", "ace-530"],
     "cover": "series/ace-500/cover.avif"
   },
   {
     "id": "premium",
     "name": "ACE970/1719",
-    "desc": "Lorem ipsum odor amet, consectetuer adipiscing elit. Nunc ut curabitur habitant urna; donec bibendum. Nullam volutpat libero ligula maximus nascetur.",
+    "desc": "Top-of-the-line e-drum series, with advanced features and premium build quality.",
     "products": ["ace-970", "ace-1719"],
     "cover": "series/premium/cover.avif"
   },
