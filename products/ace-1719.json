@@ -15,25 +15,29 @@
         "553 Sounds, 30+50 Drum Kits: A variety of sounds for any style, perfect for recording and live shows.",
         "Enhanced Sampling: Multi-layered sampling captures left and right-hand dynamics, preserving snare resonance and simulating real drum acoustics for a lifelike feel."
       ],
-      "image": "products/ace-1719/feature-sound-sys.avif"
+      "image": "products/ace-1719/feature-sound-sys.avif",
+      "imagePosition": "aside"
     },
     {
       "name": "Heavy-duty Rack System",
       "desc": "Powerful heavy-duty Rack System, quick adjustment to any angle.",
       "points": [],
-      "image": "products/ace-1719/feature-rack-system.avif"
+      "image": "products/ace-1719/feature-rack-system.avif",
+      "imagePosition": "aside"
     },
     {
       "name": "8’’ Splash Cymbal",
       "desc": "8\" Splash expands more performance possibilities",
       "points": [],
-      "image": "products/ace-1719/feature-splash-cymbal.avif"
+      "image": "products/ace-1719/feature-splash-cymbal.avif",
+      "imagePosition": "aside"
     },
     {
       "name": "12’’ 2 pieces independent Hihat",
       "desc": "Dual-plate design for authentic playing. Offers natural rebound and realistic swing, mimicking acoustic hi-hats. Supports traditional techniques perfectly.",
       "points": [],
-      "image": "products/ace-1719/feature-hihat.avif"
+      "image": "products/ace-1719/feature-hihat.avif",
+      "imagePosition": "aside"
     },
     {
       "name": "Natural Feel with Upgraded Acoustic Pads",
@@ -44,7 +48,8 @@
         "Dual-Zone Toms: Supports Head and Rim strikes for a more responsive, dynamic feel.",
         "Adjustable Tension Mesh: Dual-layer mesh gives a realistic rebound and allows tension adjustments to suit your playing style."
       ],
-      "image": "products/ace-1719/feature-upgraded-pads.avif"
+      "image": "products/ace-1719/feature-upgraded-pads.avif",
+      "imagePosition": "aside"
     },
     {
       "name": "Upgraded 16’’ Three-Zone Silicone Ride Cymbal",
@@ -55,13 +60,15 @@
         "Choke Feature: Allows manual muting for added expression.",
         "Premium Silicone: Feels natural and responds accurately to dynamic changes for smooth, authentic play."
       ],
-      "image": "products/ace-1719/feature-ride-cymbal.avif"
+      "image": "products/ace-1719/feature-ride-cymbal.avif",
+      "imagePosition": "aside"
     },
     {
       "name": "Accurate Multi-Sensor Technology",
       "desc": "A multi-sensor technique precisely captures each hit, from gentle taps to hard strikes, giving you realistic dynamic feedback to elevate your performance.",
       "points": [],
-      "image": "products/ace-1719/feature-multi-sensor.avif"
+      "image": "products/ace-1719/feature-multi-sensor.avif",
+      "imagePosition": "aside"
     },
     {
       "name": "Upgraded 12’’ Durable Kevlar Kick Drum",
@@ -70,13 +77,15 @@
         "The new BD-12-KL kick drum has a more extensive beating zone and supports a double pedal.",
         "Made from tough Kevlar, the kick drum passed a 22,000,000-hit endurance test without damage, ensuring it stays reliable even under intense use. Enjoy solid feedback for a genuine, lasting playing experience."
       ],
-      "image": "products/ace-1719/feature-kick-drum.avif"
+      "image": "products/ace-1719/feature-kick-drum.avif",
+      "imagePosition": "aside"
     },
     {
       "name": "Easy MIDI and USB Connections",
       "desc": "MIDI and USB support: A Simple USB cable sends audio and MIDI data straight to your music software, making ACE-320 an excellent choice for home studios and live performances.",
       "points": [],
-      "image": "products/ace-1719/feature-midi-usb.avif"
+      "image": "products/ace-1719/feature-midi-usb.avif",
+      "imagePosition": "aside"
     }
   ],
   "specs": [

@@ -4,27 +4,23 @@
     "name": "ACE-300 Series",
     "desc": "Compact and affordable e-Drum sets series, with powerful modules.",
     "products": ["ace-320", "ace-360"],
-    "cover": "series/ace-300/cover.avif"
+    "cover": "series/ace-300/cover.avif",
+    "expense": 2
   },
   {
     "id": "ace-500",
     "name": "ACE-500 Series",
     "desc": "Mid-range e-drum series, ideal for intermediate practice.",
     "products": ["ace-510", "ace-530"],
-    "cover": "series/ace-500/cover.avif"
+    "cover": "series/ace-500/cover.avif",
+    "expense": 3
   },
   {
     "id": "premium",
     "name": "ACE970/1719",
     "desc": "Top-of-the-line e-drum series, with advanced features and premium build quality.",
     "products": ["ace-970", "ace-1719"],
-    "cover": "series/premium/cover.avif"
-  },
-  {
-    "id": "mk",
-    "name": "MK Series",
-    "desc": "Lorem ipsum odor amet, consectetuer adipiscing elit. Nunc ut curabitur habitant urna; donec bibendum. Nullam volutpat libero ligula maximus nascetur.",
-    "products": [],
-    "cover": "series/mk/cover.avif"
+    "cover": "series/premium/cover.avif",
+    "expense": 5
   }
 ]

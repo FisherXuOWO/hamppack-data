@@ -16,7 +16,8 @@
         "Advanced sound engine for realistic dynamics",
         "Built-in training and recording functions"
       ],
-      "image": "products/ace-320/feature-sound-sys.avif"
+      "image": "products/ace-320/feature-sound-sys.avif",
+      "imagePosition": "aside"
     },
     {
       "name": "Natural Feel with Dual-Layer Mesh and Multi-Zone Design",
@@ -26,7 +27,8 @@
         "Dual-Zone Toms: Supports Head and Rim strikes for a more responsive, dynamic feel.",
         "Adjustable Tension Mesh: Dual-layer mesh gives a realistic rebound and allows tension adjustments to suit your personal playing style."
       ],
-      "image": "products/ace-320/feature-design.avif"
+      "image": "products/ace-320/feature-design.avif",
+      "imagePosition": "below"
     },
     {
       "name": "Upgraded 12\" Dual-Zone Semi-Enclosed Cymbal",
@@ -36,31 +38,36 @@
         "Choke Feature: Allows manual muting for added expression.",
         "Premium Silicone* Feels natural and responds accurately to dynamic changes for smooth, authentic play."
       ],
-      "image": "products/ace-320/feature-cymbal.avif"
+      "image": "products/ace-320/feature-cymbal.avif",
+      "imagePosition": "below"
     },
     {
       "name": "Accurate Multi-Sensor Technology",
       "desc": "High-quality sensors capture each hit with precision, from gentle taps to hard strikes, giving you realistic dynamic feedback to elevate your performance.",
       "points": [],
-      "image": "products/ace-320/feature-multi-sensor.avif"
+      "image": "products/ace-320/feature-multi-sensor.avif",
+      "imagePosition": "below"
     },
     {
       "name": "Durable Kevlar Kick Drum",
       "desc": "Made from tough Kevlar, the kick drum passed a 22,000,000-hit endurance test without damage, ensuring it stays reliable even under intense use. Enjoy solid feedback for a genuine, lasting playing experience.",
       "points": [],
-      "image": "products/ace-320/feature-kick-drum.avif"
+      "image": "products/ace-320/feature-kick-drum.avif",
+      "imagePosition": "aside"
     },
     {
       "name": "Easy MIDI and USB Connections",
       "desc": "MIDI and USB support; just one USB cable sends audio and MIDI data straight to your music software, making ACE-320 a great choice for home studios and live performances.",
       "points": [],
-      "image": "products/ace-320/feature-connect.avif"
+      "image": "products/ace-320/feature-connect.avif",
+      "imagePosition": "aside"
     },
     {
       "name": "Quick Setup with Stable Stand Design",
       "desc": "Easy to set up with a stable, durable stand that’s ready for any performance, giving you a solid foundation to play on.",
       "points": [],
-      "image": "products/ace-320/feature-setup.avif"
+      "image": "products/ace-320/feature-setup.avif",
+      "imagePosition": "aside"
     }
   ],
   "specs": [
