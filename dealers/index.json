@@ -1,0 +1,85 @@
+[
+  {
+    "id": "playmusic-123",
+    "name": "PlayMusic 123",
+    "cover": "https://lh5.googleusercontent.com/p/AF1QipO8LP8iFVFsXLZRHjzP3Npuu2SDJkwpys43Urtg=w950-h240-k-no",
+    "address": ["720 S Milliken Ave G", "Ontario, CA 91761"],
+    "website": "http://www.playmusic123.com/",
+    "tel": "888-285-5308",
+    "email": "sales@playmusic123.com",
+    "tags": ["Authorized", "Pick-up", "Accessories"],
+    "details": "https://maps.app.goo.gl/b6Ar9TQbPvRud2xr9",
+    "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6610.929079847143!2d-117.5586845!3d34.057604100000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c33565d35a3e59%3A0x2e0162ec11529606!2sPlayMusic123.com!5e0!3m2!1sen!2sus!4v1733993179113!5m2!1sen!2sus"
+  },
+  {
+    "id": "kidzrock",
+    "name": "KidzRock",
+    "cover": "https://lh5.googleusercontent.com/p/AF1QipM3kcVTtE-MG4VzztJfMnQ2lT4IiI6jVVQF6UAb=w426-h240-k-no",
+    "address": ["1101 W Whittier Blvd", "La Habra, CA 90631"],
+    "website": "http://www.kidzrocklahabra.com/",
+    "tel": "562-665-3339",
+    "email": "bobby@kidzrocklahabra.com",
+    "tags": ["Authorized", "Pick-up", "Accessories"],
+    "details": "https://maps.app.goo.gl/7y1pxCv6Ea4dBg8o9",
+    "embed": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d423688.7319391319!2d-118.5184763!3d33.9393735!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2d531917a8f77%3A0xa109249eff7709d7!2sKidz%20Rock%20La%20Habra!5e0!3m2!1sen!2sus!4v1733993229266!5m2!1sen!2sus"
+  },
+  {
+    "id": "drum-sync",
+    "name": "Drum SYNC",
+    "cover": "https://lh5.googleusercontent.com/p/AF1QipOTBw1MKgf9i4GO20vYvNOUpKLpZ-Zn7JfAnoBG=w426-h240-k-no",
+    "address": ["9559 Center Ave Suite A", "Rancho Cucamonga, CA 91730"],
+    "website": "https://www.drumsyncacademy.com/",
+    "tel": "909-948-0212",
+    "email": "drum@drumsyncacademy.com",
+    "tags": ["Authorized", "Pick-up", "Accessories"],
+    "details": "https://maps.app.goo.gl/GmmsLJvbVfB7Wb8z8",
+    "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3304.5842814414136!2d-117.57916739999999!3d34.0801696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c335e99c72ccdf%3A0xc9784b7a73fe41d4!2sDrum%20Sync%20Academy!5e0!3m2!1sen!2sus!4v1733993260663!5m2!1sen!2sus"
+  },
+  {
+    "id": "hoover-drum-school",
+    "name": "Hoover Drum School",
+    "cover": "https://lh5.googleusercontent.com/p/AF1QipNRPLqMVOV-PtuGY4OY8Mq5AkD5piq8se1XolHz=w408-h272-k-no",
+    "address": ["1717 S Hoover St #201", "Los Angeles, CA 90006"],
+    "tel": "213-393-7702",
+    "email": "hooverdrumschool@gmail.com",
+    "tags": ["Authorized", "Pick-up", "Accessories"],
+    "details": "https://maps.app.goo.gl/oqzz432sphge3J3CA",
+    "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3306.062969409355!2d-118.28459149999999!3d34.0422558!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c70c854d3a51%3A0x4ee291b9ca1d35!2zSG9vdmVyIERydW0gTGVzc29uIC0g6rCA7KO865Oc65-87ZWZ7JuQ!5e0!3m2!1sen!2sus!4v1733993287072!5m2!1sen!2sus"
+  },
+  {
+    "id": "raymond-music",
+    "name": "Raymond Music",
+    "cover": "https://lh5.googleusercontent.com/p/AF1QipOl27e3a65Nn3qb6_K-nJhVjCWF9nW5u6Hrv91I=w408-h544-k-no",
+    "address": ["7320 Hollister Ave, Suite 6", "Goleta, CA 93117"],
+    "website": "https://www.raymondmusic.com/",
+    "tel": "805-364-2821",
+    "email": "bryce@raymondmusic.com",
+    "tags": ["Authorized", "Pick-up", "Accessories"],
+    "details": "https://maps.app.goo.gl/ZXASsGMAiWj9SoWG9",
+    "embed": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d842458.0543684744!2d-121.0029801!3d34.43052!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xa44f76f280763745%3A0xf79077aa0299fff!2sRaymond%20Music!5e0!3m2!1sen!2sus!4v1733993322585!5m2!1sen!2sus"
+  },
+  {
+    "id": "lahabramusic",
+    "name": "Lahabramusic",
+    "cover": "https://lh5.googleusercontent.com/p/AF1QipN7t12qv5tJ2Ru3x_UUO2ohbQvR7HM4PPe8IzmE=w426-h240-k-no",
+    "address": ["1885 W. La Habra Blvd", "La Habra, CA 90631"],
+    "website": "http://www.lahabramusic.com/",
+    "tel": "562-694-4891",
+    "email": "steve@lahabramusiclessons.com",
+    "tags": ["Authorized", "Pick-up", "Accessories"],
+    "details": "https://maps.app.goo.gl/u4b7mQtJkHTCCzPA8",
+    "embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3310.3397098174155!2d-117.9667945!3d33.93238979999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2d52b50252927%3A0x87509dccb938b557!2sLa%20Habra%20Music%20Center!5e0!3m2!1sen!2sus!4v1733993361034!5m2!1sen!2sus"
+  },
+  {
+    "id": "manor-music",
+    "name": "Manor Music",
+    "cover": "https://lh5.googleusercontent.com/p/AF1QipNS7EorVM74y60idMMO-sg_JoeqRqDAZABDUCY=w408-h306-k-no",
+    "address": ["460 Manor Plaza", "Pacifica, CA 94044"],
+    "website": "http://www.manormusic.com/",
+    "tel": "650-355-5769",
+    "email": "manormusic@manormusic.com",
+    "tags": ["Authorized", "Pick-up", "Accessories"],
+    "details": "https://maps.app.goo.gl/zY9JWTkU6HWPSNWK6",
+    "embed": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3234757.0740906997!2d-126.9742013!3d37.6505569!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808f7ba0a7319523%3A0x15e3681ea652fbbb!2sManor%20Music!5e0!3m2!1szh-CN!2sus!4v1733993384094!5m2!1szh-CN!2sus"
+  }
+]
