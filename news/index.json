@@ -1,0 +1,24 @@
+[
+  {
+    "id": "e-drum-set-release-2025",
+    "title": "New E-Drum Set Has Been Released",
+    "date": "2025-01-03",
+    "category": "product",
+    "cover": "news/e-drum-set-release-2025.avif",
+    "content": [
+      "Hampback has just unveiled its latest innovation in the world of electronic percussion: the E-Drum Pro X. This cutting-edge e-drum set boasts unparalleled sound quality, realistic feel, and advanced connectivity options. Musicians can now experience the perfect blend of acoustic drum authenticity and digital versatility. The E-Drum Pro X features high-resolution sensors, a vast library of customizable sounds, and seamless integration with popular music production software. Whether you're a beginner or a seasoned professional, this e-drum set is set to revolutionize your drumming experience."
+    ]
+  },
+  {
+    "id": "event-test",
+    "title": "Some Event Post with Video",
+    "date": "2024-10-05",
+    "category": "event",
+    "cover": "news/e-drum-set-release-2025.avif",
+    "youtube": "osRm2F32bmc",
+    "content": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus nec nunc",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec purus nec nunc"
+    ]
+  }
+]
