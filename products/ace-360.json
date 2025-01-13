@@ -157,5 +157,71 @@
       "name": "Rack System",
       "desc": "RK-03-IR"
     }
+  ],
+  "assets": [
+    {
+      "name": "Related Software",
+      "items": [
+        {
+          "properties": [
+            ["Name", "Example Firmware v1.2"],
+            ["Size", "15 MB"],
+            ["Last Updated", "2024-01-15"]
+          ],
+          "url": "downloads/ace-360-firmware-v1.2.zip"
+        },
+        {
+          "properties": [
+            ["Name", "Example Firmware v1.2"],
+            ["Size", "15 MB"],
+            ["Last Updated", "2024-01-15"]
+          ],
+          "url": "downloads/ace-360-firmware-v1.2.zip"
+        }
+      ]
+    },
+    {
+      "name": "User Manuals",
+      "items": [
+        {
+          "properties": [
+            ["Name", "Example User Manual"],
+            ["Size", "15 MB"],
+            ["Language", "English"]
+          ],
+          "url": "downloads/ace-360-user-manual-en.pdf"
+        },
+        {
+          "properties": [
+            ["Name", "Example User Manual"],
+            ["Size", "15 MB"],
+            ["Language", "English"]
+          ],
+          "url": "downloads/ace-360-user-manual-en.pdf"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How do I connect the ACE-360 to my computer?",
+      "answer": "Lorem ipsum"
+    },
+    {
+      "question": "How do I adjust the tension of the mesh heads?",
+      "answer": "Lorem ipsum"
+    },
+    {
+      "question": "Can I use my own kick pedal with the ACE-360?",
+      "answer": "Lorem ipsum"
+    },
+    {
+      "question": "How do I adjust the sensitivity of the pads?",
+      "answer": "Lorem ipsum"
+    },
+    {
+      "question": "Can I use the ACE-360 with headphones?",
+      "answer": "Lorem ipsum"
+    }
   ]
 }
